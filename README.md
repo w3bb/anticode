@@ -1,6 +1,6 @@
 # the anticode of conduct
 
-Modern code of conducts are focused on things that aren't important, such as 
+Modern Code of Conducts are focused on things that aren't important, such as 
 policing thoughts, policing irrelevent behaviour, and fighting fire with fire.
 
 The anticode of conduct is designed for what's important -- the code. This code
