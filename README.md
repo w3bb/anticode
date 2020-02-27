@@ -1,10 +1,10 @@
-# the anticode of conduct
+<h1 align=center> the anticode of conduct </h1>
 
 Modern Code of Conducts are focused on things that aren't important, such as 
 policing thoughts, policing irrelevent behaviour, and fighting fire with fire.
 
-The anticode is designed for what's important -- the code. This code
-of conduct is designed to make people more productive, and leave politics at the
+The anticode is designed for what's important -- the code. This Code
+of Conduct is designed to make people more productive, and leave politics at the
 door. 
 
 You can read the anticode in ANTICODE.md. All has been released into the 
