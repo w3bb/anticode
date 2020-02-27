@@ -3,7 +3,7 @@
 Modern Code of Conducts are focused on things that aren't important, such as 
 policing thoughts, policing irrelevent behaviour, and fighting fire with fire.
 
-The anticode of conduct is designed for what's important -- the code. This code
+The anticode is designed for what's important -- the code. This code
 of conduct is designed to make people more productive, and leave politics at the
 door. 
 
